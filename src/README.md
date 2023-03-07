@@ -1,0 +1,61 @@
+# Visual Studio Code generated files
+
+.vscode/
+launch.json
+tasks.json
+
+# Build results
+
+bin/
+obj/
+
+# MSTest test Results
+
+TestResults/
+
+# NuGet Packages
+
+\*.nupkg
+packages/
+
+# Resharper
+
+\_ReSharper\*/
+
+# User-specific files
+
+_.suo
+_.user
+_.userosscache
+_.sln.docstates
+
+# Build results
+
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
+
+# NuGet Packages Directory
+
+## TODO: If you have NuGet Package Restore enabled, uncomment the next line
+
+#packages/
+
+# MSTest test Results
+
+[TestResults]
+
+# Other artifacts
+
+[Tt]humbs.db
+\*.DS_Store
+
+# .NET Core
+
+project.lock.json
+project.fragment.lock.json
+artifacts/
+\*\*/Properties/launchSettings.json
